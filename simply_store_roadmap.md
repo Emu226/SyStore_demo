@@ -17,13 +17,13 @@
 - Erste lauffähige Avalonia-App
 
 **Tasks:**
-- [ ] **Visual Studio/Rider Setup** mit Avalonia Templates
-- [ ] **Neues Avalonia MVVM Projekt** erstellen
-- [ ] **Grundlegende Projektstruktur** anlegen:
+- [X] **Visual Studio Setup** mit Avalonia Templates
+- [X] **Neues Avalonia MVVM Projekt** erstellen
+- [X] **Grundlegende Projektstruktur** anlegen:
   ```
   Simply Store Demo/
   ├── SimplyStore.Core/        # Models, Services, Interfaces
-  ├── SimplyStore.Desktop/     # Avalonia UI Projekt
+  ├── SimplyStore.UI/          # Avalonia UI Projekt
   ├── SimplyStore.Tests/       # Unit Tests
   └── SimplyStore.Database/    # Entity Framework Context
   ```
